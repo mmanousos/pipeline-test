@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+ruby "2.7.0"
+
+gem 'ruby-kafka', '~> 1.0.0'
+gem 'timeloop', '~> 2.0.0'
+gem 'avro_turf', '~> 0.11.0'

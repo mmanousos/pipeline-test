@@ -1,4 +1,4 @@
-{"name": "values",
+{"name": "numbers",
   "type": "record",
   "fields": [
       {"name": "name", "type": "string"},
